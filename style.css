@@ -1,0 +1,23 @@
+.card{
+    height: 50px;
+    width: 400px;
+}
+
+.container{
+    display: flex;
+
+}
+
+.card2 {
+    margin-bottom: 20px;
+  }
+  
+  .card2 img {
+    width: 150px;
+    height: 150px;
+  }
+  
+  .card-title {
+    margin-bottom: 10px;
+  }
+  
